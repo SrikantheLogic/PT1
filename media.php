@@ -70,17 +70,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <?php include('includes/menu.php');?>
     </div>
   </div>
-  <!--<div class="section_wrap service_body_wrap wf-section">
-    <div class="container w-container">
-      <div class="serve_bd_head">
-        <div class="section_cs_head_wrap serve_cs_wrap wow animate__animated animate__fadeIn">
-          <div class="sec_xsm_head">OUR</div>
-          <h2 class="section_heading uppercase s_bold">PROJECTS</h2>
-        </div>
-      </div>
-     <?php //include('includes/services_section.php'); ?>
-    </div>
-  </div> -->
+   
+  
  
     <div class="media-page-cont pro-page-main-div-cont">
     <div class="pro-main-div-cont">
@@ -96,20 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="pro-each-project-img-cont">
                     <img src="images/media/media-01.jpg" class="media-01" />
                 </div>
-
-                <div class="pro-each-project-content-cont">
-                    <div class="pro-each-project-content-inner-cont">
-                        <h1 class="pro-each-project-heading">Accelerate Your IoT Product Development Journey</h1>
-                        <p class="pro-each-project-description">The world requirement for IoT devices is continuously increasing around all sectors, industrial verticals, enterprises, and home applications.</p>
-                    </div>
-                    
-                    <div class="pro-each-project-btn-cont">
-                        <a href="accelerate-your-iot-product-development-journey" target="_blank">
-                            <button class="pro-each-project-btn">Read more</button>
-                        </a>
-                    </div>
-                </div>
-            </div>
+ 
 
             <div class="pro-each-project-main-cont wow animate__animated animate__fadeInUp" data-wow-delay="0.3s">
                 <div class="pro-each-project-img-cont">
